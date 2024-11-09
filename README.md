@@ -1,4 +1,7 @@
-<h1 align="center">Welcome to my GitHub page</h1>
+<h1 align="center">
+  <img src="./Welcome.gif" alt="welcome to my GitHub page">
+</h1>
+
 
 ---
 
