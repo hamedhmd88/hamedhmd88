@@ -16,7 +16,7 @@ As a front-end developer with two years of dedicated experience, I am dedicated 
   <a href="mailto:hmdhamed88@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
-  <a href="https://t.me/اhamedmahjoobi" target="_blank">
+  <a href="https://t.me/hamedmahjoobi" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
   </a>
   <a href="https://instagram.com/hamed_mahjoobi" target="_blank">
