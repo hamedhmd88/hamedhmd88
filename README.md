@@ -6,7 +6,7 @@
 ---
 
 ### 📌 About Me:
-As a front-end developer with two years of dedicated experience, I am dedicated to expanding my expertise and using my skills to create effective products or services to meet industry needs as well as create new and smart capabilities.
+As a front-end developer with nearly three years of professional experience, I am committed to continuous growth and refining my skills to deliver impactful, smart, and efficient products. My goal is to not only meet evolving industry demands but also push the boundaries of innovation through thoughtful and user-focused solutions.
 
 ---
 
@@ -32,7 +32,9 @@ As a front-end developer with two years of dedicated experience, I am dedicated 
 
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>  
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+<img src="https://img.shields.io/badge/Zustand-000000?style=for-the-badge&logo=Zustand&logoColor=white" alt="Zustand"/>
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
   <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" alt="Redux"/>
    <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js"/>
